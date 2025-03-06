@@ -5,11 +5,17 @@
 
 Base project folder for a Silverstripe ([http://silverstripe.org](http://silverstripe.org)) installation. Required modules are installed via [http://github.com/silverstripe/recipe-cms](http://github.com/silverstripe/recipe-cms). For information on how to change the dependencies in a recipe, please have a look at [https://github.com/silverstripe/recipe-plugin](https://github.com/silverstripe/recipe-plugin). In addition, installer includes [theme/simple](https://github.com/silverstripe-themes/silverstripe-simple) as a default theme.
 
-![Alt text](images/brettt89.jpg)
+### brettt89/silverstripe-web
 
-![Alt text](images/docker.jpg)
+<img src="images/brettt89.jpg" width="500"/>
 
-![Alt text](images/ss-page.jpg)
+### Docker Desktop
+
+<img src="images/docker.jpg" width="500"/>
+
+### Silverstripe page
+
+<img src="images/ss-page.jpg" width="500"/>
 
 ## Installation
 
